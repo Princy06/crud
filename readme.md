@@ -21,3 +21,6 @@
 10. Now the project is completely setup.
 11. Go to http://localhost/inter_project and use the website.
 ## SCREENSHOT
+![](https://github.com/Princy06/crud/blob/main/screenshot/Screenshot%202021-08-25%20114448.png)
+![](https://github.com/Princy06/crud/blob/main/screenshot/Screenshot%202021-08-25%20114554.png)
+![](https://github.com/Princy06/crud/blob/main/screenshot/Screenshot%202021-08-25%20114648.png)
