@@ -16,8 +16,8 @@
 5. Start Apache and MYSQL service.
 6. Open your browser.
 7. Go to the address: http://localhost/phpmyadmin
-8. Create a new databse named ### inter_project
-9. Upload the database file named ### crud.sql
+8. Create a new databse named inter_project
+9. Upload the database file named crud.sql
 10. Now the project is completely setup.
 11. Go to http://localhost/inter_project and use the website.
 ## SCREENSHOT
